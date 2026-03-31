@@ -1,3 +1,4 @@
+![bStats FastBuying](https://bstats.org/signatures/bukkit/FastBuying.svg)
 **FastBuying** — это инновационный плагин для автоматизации доната на серверах Minecraft, который радикально упрощает процесс покупки привилегий для игроков.
 
 Плагин полностью автономен, не требует сторонних зависимостей и легко интегрируется с DeluxeMenus, LuckPerms, EssentialsX, CMI, LiteBans и другими плагинами.
